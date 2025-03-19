@@ -1,10 +1,12 @@
-// Um funcionário recebe um salário fixo mais 4% de comissão
-//sobre as vendas. Faça um programa que receba o salário
-//fixo de um funcionário e o valor total de suas vendas.
-//Calcule e mostre a comissão recebida em reais e o salário
-//final do funcionário (salário fixo + comissão).
+Um funcionÃ¡rio recebe um salÃ¡rio fixo e mais 4% de comissÃ£o sobre as vendas. 
+FaÃ§a um programa que:
+- receba o salÃ¡rio fixo de um funcionÃ¡rio
+- o valor total de suas vendas.
+- Calcule e mostre:
+   - a comissÃ£o recebida em reais e 
+   - o salÃ¡rio final do funcionÃ¡rio (salÃ¡rio fixo + comissÃ£o).
 
-//Aula: 
+
 
 
 
@@ -30,16 +32,16 @@ var
    sal, sal_f, vendas, comissao:real
 
 inicio
-   escreva("Digite o Salário do Funcionário: ")
+   escreva("Digite o SalÃ¡rio do FuncionÃ¡rio: ")
    leia(sal)
-   escreva("Digite o Valor total das vendas do funcionário: ")
+   escreva("Digite o Valor total das vendas do funcionÃ¡rio: ")
    leia(vendas)
    
    
    comissao <- vendas * 0.04
    sal_f <- sal + comissao
    
-   escreval("A comissão é: R$", comissao)
-   escreval("O salário final é: R$", sal_f)
+   escreval("A comissÃ£o Ã©: R$", comissao)
+   escreval("O salÃ¡rio final Ã©: R$", sal_f)
 
 fimalgoritmo
