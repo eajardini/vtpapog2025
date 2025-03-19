@@ -1,6 +1,6 @@
 
 Um funcionário recebe um salário fixo e mais **4% de comissão sobre as vendas**.   
-Faça um programa que:  
+Faça um algoritmo que:  
 - receba o salário fixo de um funcionário  
 - o valor total de suas vendas.  
 - Calcule e mostre:  
