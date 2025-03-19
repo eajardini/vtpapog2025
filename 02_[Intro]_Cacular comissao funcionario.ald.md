@@ -1,4 +1,4 @@
-<h4>
+
 Um funcionário recebe um salário fixo e mais **4% de comissão sobre as vendas**.   
 Faça um programa que:  
 - receba o salário fixo de um funcionário  
@@ -6,7 +6,7 @@ Faça um programa que:
 - Calcule e mostre:  
    - a comissão recebida em reais e   
    - o salário final do funcionário (salário fixo + comissão).  
-</h4>
+
 
 
 <br/>
