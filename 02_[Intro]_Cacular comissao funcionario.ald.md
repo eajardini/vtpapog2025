@@ -1,16 +1,18 @@
-<h3>
-Um funcionário recebe um salário fixo e mais **4% de comissão sobre as vendas**. 
-Faça um programa que:
-- receba o salário fixo de um funcionário
-- o valor total de suas vendas.
-- Calcule e mostre:
-   - a comissão recebida em reais e 
-   - o salário final do funcionário (salário fixo + comissão).
-</h3>
+<h4>
+Um funcionário recebe um salário fixo e mais **4% de comissão sobre as vendas**.   
+Faça um programa que:  
+- receba o salário fixo de um funcionário  
+- o valor total de suas vendas.  
+- Calcule e mostre:  
+   - a comissão recebida em reais e   
+   - o salário final do funcionário (salário fixo + comissão).  
+</h4>
 
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
