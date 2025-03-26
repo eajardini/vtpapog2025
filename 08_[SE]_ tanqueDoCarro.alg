@@ -11,7 +11,7 @@ o sistema irá imprimir uma mensagem:
    - pedirá para o usuário informar o  valor do preço do litro do combustível.
 
 Como saída, será informado para o usuário:
-   - O valor, em reais, do preço de se encher tanque de combustível.
+   - O valor, em reais, do preço de se encher o tanque de combustível.
 
 
 
