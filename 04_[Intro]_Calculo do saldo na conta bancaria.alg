@@ -49,5 +49,6 @@ inicio
    saldo_final <- salario - cheque1 - cheque2 - imposto
    
    escreval("O Saldo atual do trabalhador é: ", saldo_final)
+   escreval("O vaor dos impostos é: ", imposto)
 
 fimalgoritmo
