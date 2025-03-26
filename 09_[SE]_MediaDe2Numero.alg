@@ -1,8 +1,11 @@
-//Faça um algoritmo que receba duas notas e calcule a média.
-//Caso a média seja no mínimo 6 o mostrar a mensagem que o aluno está aprovado,
-//se a média for menor que 6 e igual ou superior a 4 o mesmo está de recuperação e
-//se a média for inferior a 4 o aluno está reprovado.
-//
+Faça um algoritmo que 
+   - receba duas notas e 
+   - calcule a média.
+Feito isso, considere:
+   - Caso a média seja no mínimo 6,  mostrar a mensagem que o aluno está aprovado,
+   - se a média for menor que 6 e igual ou superior a 4 o mesmo está de IFA e
+   - se a média for inferior a 4 o aluno está reprovado.
+
 
 
 
