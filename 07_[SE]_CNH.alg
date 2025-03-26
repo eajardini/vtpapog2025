@@ -1,8 +1,8 @@
-// Faça um algoritmo que solicite o nome do usuário e sua idade.
-// Se a idade for maior ou igual que 18 anos, escreva:
-// Fulano, você já pode obter sua CNH; Se a idade
-// for menor que 18 anos, escreva:
-// Fulano, você não pode obter sua CNH;
+Faça um algoritmo que solicite o nome do usuário e sua idade.
+Se a idade for maior ou igual que 18 anos,
+   escreva: Fulano, você já pode obter sua CNH; 
+Se a idade for menor que 18 anos, 
+   escreva: Fulano, você não pode obter sua CNH;
 
 
 
