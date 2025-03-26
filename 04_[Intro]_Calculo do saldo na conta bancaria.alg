@@ -8,8 +8,9 @@ Para isso sabe-se:
 Desenvolva um algoritmo que:
 - Receba o salário do trabalhador, 
 - o valor do primeiro cheque, 
-- o valor do segundo cheque e 
-- mostre ao final quanto sobrou na conta do trabalhador.
+- o valor do segundo cheque, 
+- mostre ao final quanto sobrou na conta do trabalhador e
+- mostre o valor total dos impostos incidentes em cada retirada.
 
 //Aula:
 
