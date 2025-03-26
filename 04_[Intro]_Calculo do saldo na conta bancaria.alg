@@ -2,7 +2,8 @@ Um trabalhador recebeu o seu salário e o depositou em sua conta corrente bancá
 Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual.
 Para isso sabe-se:
 - Cada operação bancária de retirada paga-se um imposto de 0.38% 
-      sobre o valor retirado e o saldo inicial da conta está zerado.
+      sobre o valor retirado
+- Não incide imposto sobre o saldo da conta somente na retirada.
 
 Desenvolva um algoritmo que:
 - Receba o salário do trabalhador, 
