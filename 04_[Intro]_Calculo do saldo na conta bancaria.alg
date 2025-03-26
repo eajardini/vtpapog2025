@@ -1,10 +1,14 @@
-// Um trabalhador recebeu o seu sal·rio e o depositou em sua conta corrente banc·ria.
-//Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual.
-//Sabe-se que cada operaÁ„o banc·ria de retirada paga um imposto de 0.38%
-//sobre o valor retirado e o saldo inicial da conta est· zerado.
-//Desenvolva um algoritmo que receba o sal·rio do trabalhador, o valor do
-//primeiro cheque, o valor do segundo cheque e mostre ao final quanto sobrou
-//na conta do trabalhador.
+Um trabalhador recebeu o seu sal√°rio e o depositou em sua conta corrente banc√°ria.
+Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual.
+Para isso sabe-se:
+- Cada opera√ß√£o banc√°ria de retirada paga-se um imposto de 0.38% 
+      sobre o valor retirado e o saldo inicial da conta est√° zerado.
+
+Desenvolva um algoritmo que:
+- Receba o sal√°rio do trabalhador, 
+- o valor do primeiro cheque, 
+- o valor do segundo cheque e 
+- mostre ao final quanto sobrou na conta do trabalhador.
 
 //Aula:
 
@@ -31,7 +35,7 @@ var
    salario, cheque1, cheque2, imposto, saldo_final: real
 
 inicio
-   escreva("Digite o valor do sal·rio depositado na conta: ")
+   escreva("Digite o valor do sal√°rio depositado na conta: ")
    leia(salario)
    escreva("Digite o valor do primeiro cheque emitido: ")
    leia(cheque1)
@@ -42,6 +46,6 @@ inicio
 
    saldo_final <- salario - cheque1 - cheque2 - imposto
    
-   escreval("O Saldo atual do trabalhador È: ", saldo_final)
+   escreval("O Saldo atual do trabalhador √©: ", saldo_final)
 
 fimalgoritmo
