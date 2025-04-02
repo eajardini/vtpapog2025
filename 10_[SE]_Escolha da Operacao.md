@@ -7,29 +7,29 @@ você deseja executar:
 Ao escolher a operação o sistema deve solicitar dois números inteiro.
 Apos entrar com os números, o sistema deve realizar o cálculo desejado e armazenar em uma variável e
 imprimir a mesma na tela ao final do algoritmo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 algoritmo "operacoes"
 
 var
