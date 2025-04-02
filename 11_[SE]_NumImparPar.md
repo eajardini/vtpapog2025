@@ -19,7 +19,9 @@ Para isso você deve utilizar o operador MOD.
 <br/>
 <br/>
 <br/>
-```c
+
+
+```C
 algoritmo "impar ou par"
 var
    numero:inteiro
