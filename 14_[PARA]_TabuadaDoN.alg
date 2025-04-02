@@ -1,14 +1,21 @@
-//Faça um algoritmo para calcular e mostrar a tabuada do N onde N é um número informado pelo usuário.
+<h3>
+Faça um algoritmo para calcular e mostrar a tabuada do N onde N é um número informado pelo usuário.
+</h3>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-
-
-
-
-
-
-
+```C
 algoritmo "Tabuada N"
 
 var
@@ -23,5 +30,5 @@ inicio
    fimpara
 
 fimalgoritmo
-
+```
 
