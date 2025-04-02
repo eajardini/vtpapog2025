@@ -1,14 +1,27 @@
-Construa um algoritmo que solicite qual operação
-você deseja executar:
-- A (para adição)
-- S (para Subtração)
-- M (para Multiplicação)
-- D (para Divisão).
-Ao escolher a operação o sistema deve solicitar dois números inteiro.
-Apos entrar com os números, o sistema deve realizar o cálculo desejado e armazenar em uma variável e
+Construa um algoritmo que solicite qual operação  
+você deseja executar:  
+- A (para adição)  
+- S (para Subtração)  
+- M (para Multiplicação)  
+- D (para Divisão).  
+Ao escolher a operação o sistema deve solicitar dois números inteiro.  
+Apos entrar com os números, o sistema deve realizar o cálculo desejado e armazenar em uma variável e  
 imprimir a mesma na tela ao final do algoritmo.
   
-  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
   
   
   
