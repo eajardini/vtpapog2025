@@ -1,40 +1,33 @@
-// Faça um algoritmo que solicite N números inteiros. À medida em que o //usuário for informando os números, o algoritmo irá determinar o maior e o menor dele. Ao final o algoritmo deve informa o maior e o menor número digitado.
+<h2>
+FaÃ§a um algoritmo que solicite N nÃºmeros inteiros. <br/> 
+Ã€ medida em que o usuÃ¡rio for informando os nÃºmeros, o algoritmo irÃ¡ determinar o maior e o menor dele. <br/>
+Ao final o algoritmo deve informa o maior e o menor nÃºmero digitado.
+</h2>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
+```C
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-algoritmo "Maior e menor número"
+Exemplo 01
+algoritmo "Maior e menor nÃºmero"
 var
    numero, quantidade, contador, maior, menor:inteiro
 inicio
-   escreva("Informe a quantidade de Números: ")
+   escreva("Informe a quantidade de NÃºmeros: ")
    leia(quantidade)
    para contador <- 1 ate quantidade faca
-      escreva("Informe o Número: ")
+      escreva("Informe o NÃºmero: ")
       leia(numero)
       se(contador = 1)entao
          maior <- numero
@@ -48,22 +41,23 @@ inicio
          fimse
       fimse
    fimpara
-   escreval("O maior número digitado foi: ", maior)
-   escreval("O menor número digitado foi: ", menor)
+   escreval("O maior nÃºmero digitado foi: ", maior)
+   escreval("O menor nÃºmero digitado foi: ", menor)
 fimalgoritmo
 
 
-algoritmo "Maior e menor número"
+Exemplo 02
+algoritmo "Maior e menor nÃºmero"
 var
    numero, quantidade, contador, maior, menor, primeiro:inteiro
 inicio
    maior <- 0
    menor <- 0
    primeiro <- 1
-   escreva("Informe a quantidade de Números: ")
+   escreva("Informe a quantidade de NÃºmeros: ")
    leia(quantidade)
    para contador <- 1 ate quantidade faca
-      escreva("Informe o Número: ")
+      escreva("Informe o NÃºmero: ")
       leia(numero)
       se(primeiro = 1)entao
          maior <- numero
@@ -78,12 +72,13 @@ inicio
          fimse
       fimse
    fimpara
-   escreval("O maior número digitado foi: ", maior)
-   escreval("O menor número digitado foi: ", menor)
+   escreval("O maior nÃºmero digitado foi: ", maior)
+   escreval("O menor nÃºmero digitado foi: ", menor)
 fimalgoritmo
 
 
-algoritmo "Maior e menor número"
+Exemplo 03
+algoritmo "Maior e menor nÃºmero"
 var
    numero, quantidade, contador, maior, menor:inteiro
    flag:logico
@@ -91,10 +86,10 @@ inicio
    maior <- 0
    menor <- 0
    flag <- verdadeiro
-   escreva("Informe a quantidade de Números: ")
+   escreva("Informe a quantidade de NÃºmeros: ")
    leia(quantidade)
    para contador <- 1 ate quantidade faca
-      escreva("Informe o Número: ")
+      escreva("Informe o NÃºmero: ")
       leia(numero)
       se(flag)entao
          maior <- numero
@@ -109,7 +104,7 @@ inicio
          fimse
       fimse
    fimpara
-   escreval("O maior número digitado foi: ", maior)
-   escreval("O menor número digitado foi: ", menor)
+   escreval("O maior nÃºmero digitado foi: ", maior)
+   escreval("O menor nÃºmero digitado foi: ", menor)
 fimalgoritmo
-
+```
