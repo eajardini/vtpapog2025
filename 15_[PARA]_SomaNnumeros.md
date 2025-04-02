@@ -3,28 +3,25 @@ Apresentar o total da soma obtido de N números inteiros onde N é um
 número digitado pelo usuário.
 </h2>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "soma dos N números"
 
 var
@@ -43,3 +40,4 @@ inicio
 
 
 fimalgoritmo
+```
