@@ -43,12 +43,12 @@ imprimir a mesma na tela ao final do algoritmo.
   
   
   
-  
-algoritmo "operacoes"
+```c  
+algoritmo "operacoes"  
 
-var
-numero1, numero2:inteiro
-resultado:real
+var  
+numero1, numero2:inteiro  
+resultado:real  
 operacao:literal
 
 inicio
@@ -83,3 +83,4 @@ inicio
    escreval("O resultado da operação é: ", resultado:2:2)
    
 fimalgoritmo
+```
