@@ -1,6 +1,7 @@
-<h3>
-Faça um algoritmo para calcular e mostrar a tabuada do N onde N é um número informado pelo usuário.
-</h3>
+<h2>
+Faça um algoritmo para calcular e mostrar a tabuada do N onde N é um <br/>
+número informado pelo usuário.
+</h2>
 
 <br/>
 <br/>
