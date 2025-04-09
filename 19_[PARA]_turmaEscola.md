@@ -3,7 +3,7 @@ Assumindo que os alunos são cadastrados por computador, escreva um algoritmo qu
  - Leia a idade e o sexo do aluno;  
  - Mostre a idade média dos candidatos;  
  - Mostre a quantidade de mulheres inscritas;  
- - Mostre os candidatos (homens e mulheres) maiores de idade.  
+ - Mostre a quantidade de candidatos homens e mulheres maiores de idade.  
 
 <br/>
 <br/>
