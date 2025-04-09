@@ -37,7 +37,7 @@ Ao final o algoritmo deve informa o maior número digitado.
 
 
 
-
+```C
 algoritmo "Numero"
 
 var
@@ -56,6 +56,4 @@ inicio
    
    escreval("O maior número digitado foi: ", maior)
 fimalgoritmo
-
-
-
+```
