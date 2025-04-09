@@ -1,0 +1,45 @@
+// Criar um algoritmo que leia 10 números pelo
+//teclado e exiba os números na ordem inversa da
+//que os números foram digitados. Use a cláusura passo -1 no laço para
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+algoritmo "vetor"
+
+var
+   numeros:vetor [1..10] de inteiro
+   cont:inteiro
+inicio
+   para cont de 1 ate 10 faca
+      escreval("Digite um número:")
+      leia(numeros[cont])
+   fimpara
+   escreval("Números na ordem inversa:")
+
+   para cont de 10 ate 1 passo -1 faca
+      escreva(numeros[cont])
+   fimpara
+
+   
+fimalgoritmo

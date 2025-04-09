@@ -1,0 +1,54 @@
+ // Faça um algoritmo que leia 6 números reais em vetor e depois
+// mostre os números localizados nas posições impares.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+algoritmo "vetor"
+var
+   numeros: vetor [1..6] de real
+   cont:inteiro
+inicio
+   para cont de 1 ate 6 faca
+      escreva("Entre com o ", cont, " valor: ")
+      leia( numeros[cont])
+   fimpara
+   
+//primeira forma de resolver
+   para cont de 1 ate 6 faca
+      se (cont mod 2 <> 0) entao
+         escreva (numeros[cont])
+      fimse
+   fimpara
+   
+//segunda forma de resolver
+   para cont de 1 ate 6 passo 2 faca
+         escreva (numeros[cont])
+   fimpara
+fimalgoritmo
+
