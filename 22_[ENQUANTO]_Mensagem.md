@@ -1,31 +1,28 @@
-//Faça um programa que fique mostrando a mensagem "Comando enquanto".
-//A cada frase mostrada, dê a opção para que o usuário escolher se
-//continua ou não S-Continuar N-Não continuar.
+Faça um programa que fique mostrando a mensagem *Comando enquanto*.  
+A cada frase mostrada, dê a opção para que o usuário escolher se  
+continua ou não **S-Continuar** ou  **N-Não continuar**.
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "comando"
 var
    continuar:literal
@@ -48,3 +45,4 @@ inicio
    fimenquanto
 
 fimalgoritmo
+```
