@@ -1,13 +1,26 @@
-//faca um algoritmo que solicite N números inteiros.
-//Até que o número 0(zero) seja digitado.
-//Ao final o algoritmo deve informa o maior número digitado.
+Faca um algoritmo que solicite N números inteiros.  
+Até que o número 0(zero) seja digitado.  
+Ao final o algoritmo deve informa o maior número digitado.  
 
 
 
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
