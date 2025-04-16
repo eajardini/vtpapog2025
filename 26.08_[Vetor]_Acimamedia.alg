@@ -1,9 +1,9 @@
-FaÁa um algoritmo que leia um vetor de 5 n˙meros reais.
-Calcule: 
-    1 - soma e a mÈdia desses n˙meros
-    2 - quantos elementos s„o iguais ou maiores do que a mÈdia
-    3 - o percentual dos elementos que s„o maiores ou iguais a mÈdia
-    4 - mostrar quantos desses elementos s„o positivos e quantos s„o negativos.
+## Fa√ßa um algoritmo que leia um vetor de 5 n√∫meros reais.
+## Calcule: 
+##    1 - soma e a m√©dia desses n√∫meros
+    2 - quantos elementos s√£o iguais ou maiores do que a m√©dia
+    3 - o percentual dos elementos que s√£o maiores ou iguais a m√©dia
+    4 - mostrar quantos desses elementos s√£o positivos e quantos s√£o negativos.
 
 
 
@@ -47,7 +47,7 @@ perc_maior <-0
 qtd_poss <-0
 qtd_neg <-0
 para i de 1 ate 5 faca
-    escreva("Digite o ",i,"∞ valor.:")
+    escreva("Digite o ",i,"¬∞ valor.:")
     leia(vetoro5[i])
     soma <- soma + vetoro5[i]
 fimpara
@@ -64,11 +64,11 @@ para i de 1 ate 5 faca
 fimpara
 perc_maior <-(iguais_maior * 100)/5
 escreval("A soma foi .: ",soma)
-escreval("A mÈdia foi .: ",media)
-escreval(perc_maior,"% s„o maiores ou iguais a mÈdia")
-escreval(iguais_maior," s„o iguais ou maiores do que a media")
-escreval(qtd_poss," s„o positivos")
-escreval(qtd_neg," s„o negativos")
+escreval("A m√©dia foi .: ",media)
+escreval(perc_maior,"% s√£o maiores ou iguais a m√©dia")
+escreval(iguais_maior," s√£o iguais ou maiores do que a media")
+escreval(qtd_poss," s√£o positivos")
+escreval(qtd_neg," s√£o negativos")
 fimalgoritmo
 
 
