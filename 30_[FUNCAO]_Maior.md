@@ -1,45 +1,29 @@
-//Faça um algoritmo que receba 5 números e ao final mostre quem é o
-//maior e o menor número digitado.
-//A verificação do maior e menor deve ser feita em uma função.
-//O menor e o maior número devem ser retornados para o programa
-//principal para, então, serem mostrados.
+Faça uma função que **receba 5 números inteiros** e ao final mostre quem é o maior e o menor número informado.  
+O menor e o maior número devem ser retornados para o programa principal para, então, serem mostrados.
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "funcao"
 
 var
@@ -82,3 +66,4 @@ inicio
    escreval("O menor é: ", menor)
 
 fimalgoritmo
+```
