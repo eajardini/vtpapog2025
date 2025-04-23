@@ -1,42 +1,31 @@
-//Faça um algoritmo que receba três notas de um aluno como parâmetros
-//e o tipo da média que deverá ser calculada.
-//Se o tipo da média for "A" a função calcula a média aritmética das
-//notas do aluno, se for "P" a função calcula a média ponderada
-//pesos 5, 3 e 2. A média calculada deve ser devolvida ao programa
-//principal para, então, ser mostrada.
+Faça uma função que receba três notas de um aluno e o tipo da média que deverá ser calculada como parâmteros.  
+Depois calcule:  
+   1. Se o tipo da média for "A" a função calcula a média aritmética das notas do aluno;  
+   2. Se for "P" a função calcula a média ponderada cujos pesos são  5, 3 e 2.
 
+A média calculada deve ser retornada ao programa principal para, então, ser mostrada.
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "funcao"
 
 var
@@ -75,3 +64,4 @@ inicio
    escreval("A média do aluno é: ", media)
 
 fimalgoritmo
+```
