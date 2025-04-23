@@ -1,4 +1,4 @@
-Escreva um algoritmo que recebe um numero inteiro qualquer e **retorne o numero + 2**.
+Escreva um algoritmo que recebe um numero inteiro qualquer e **retorne e mostre o numero + 2**.
 
 <br/>
 <br/>
