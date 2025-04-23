@@ -1,42 +1,33 @@
-//Escreva um algoritmo que recebe um numero inteiro qualquer e retorne
-// o numero + 2
+Escreva um algoritmo que recebe um numero inteiro qualquer e **retorne o numero + 2**.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "funcao"
 var
    num, res:inteiro
@@ -57,6 +48,6 @@ inicio
    res <- mostra(num)
    escreval("O valor retornado pela função é: ",res)
 fimalgoritmo
-
+```
 
 
