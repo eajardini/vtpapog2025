@@ -1,7 +1,29 @@
-//Faça um algoritmo que receba 2 números inteiros e qual operação matemática deseja
-//realizar: (+) Adição, (-)Subtração, (*) Multiplicação e (/) Divisão.
-//Construir uma função que receba os dois números e a operação desejada.
-//Ao final mostrar o resultado.
+Construir uma função em um algoritmo que receba 2 números inteiros e qual operação matemática  
+será realizada: (+) Adição, (-)Subtração, (*) Multiplicação e (/) Divisão.   
+Ao final mostrar o resultado como parâmetro de retorno do corpo do algoritmo.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
@@ -10,34 +32,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```C
 algoritmo "funcao"
 
 var
@@ -80,3 +75,4 @@ inicio
    escreval("O resultado é: ", calcular(numero1, numero2, operacao))
 
 fimalgoritmo
+```
