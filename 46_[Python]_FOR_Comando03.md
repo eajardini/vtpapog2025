@@ -1,17 +1,30 @@
-'''
-Uma escola está realizando matrículas para um curso aberto à comunidade,
-com limite de 20 vagas. Assumindo que os alunos são cadastrados por computador,
-escreva um algoritmo que:
-Leia a idade e o sexo do aluno;
-Informe que a turma está lotada, quando o número de inscritos atingir a quantidade de vagas;
-Mostre a idade média dos candidatos;
-Mostre a quantidade de mulheres inscritas;
-Mostre os candidatos (homens e mulheres) maiores de idade.
+<h2>
+Uma escola está realizando matrículas para um curso aberto à comunidade, com limite de 20 vagas. </br></br>
 
-'''
-
+Assumindo que os alunos são cadastrados por computador, escreva um algoritmo que:</br>
+1. Leia a idade e o sexo do aluno; </br>
+2. Informe que a turma está lotada, quando o número de inscritos atingir a quantidade de vagas;</br>
+3. Mostre a idade média dos candidatos;</br>
+4. Mostre a quantidade de mulheres inscritas e </br>
+5. Mostre os candidatos (homens e mulheres) maiores de idade.
+</h2>
 
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 
@@ -20,8 +33,7 @@ Mostre os candidatos (homens e mulheres) maiores de idade.
 
 
 
-
-
+```python
 #variaveis
 idade = 0
 sexo = ""
@@ -50,3 +62,4 @@ print("A turma está lotada.")
 print (f"A média de idade dos inscritos é de: {idade_media}")
 print (f"A quantidade de mulheres inscritas é: {qtd_mulheres}")
 print (f"A quantidade de alunos maiores de idade é: {qtd_maiores}")
+```
