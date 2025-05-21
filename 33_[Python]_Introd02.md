@@ -1,4 +1,4 @@
-'''
+<h2>
 Faça um programa que receba uma medida em pés.
 Faça as conversões a seguir em mostre os resultados.
     a) polegadas
@@ -9,8 +9,47 @@ Sabese que:
     1 jarda = 3 pés
     1 milha = 1760 jardas
 
-'''
+</h2>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+```python
 #variaveis
 pes=0.0 
 polegadas=0.0 
@@ -28,3 +67,5 @@ print(f"O número de pés é: {pes}")
 print(f"O número de polegadas é: {polegadas}")
 print(f"O número de jardas é: {jardas:,.2f}")
 print(f"O número de minhas é: {milhas:,.5f}")
+
+```
