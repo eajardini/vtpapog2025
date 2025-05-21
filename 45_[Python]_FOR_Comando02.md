@@ -1,35 +1,36 @@
-'''
+<h2>
 Construir um algoritmo que leia a idade de N pessoas.
 O sistema deve calcular: a média das idades, a menor e a maior idade informada
-
-'''
-
+</h2>
 
 
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 #variaveis
 idade = 0
 contador = 0
@@ -62,3 +63,4 @@ idade_media = idade_soma / n
 print(f"A idade média é: {idade_media:.2f}")
 print(f"A menor idade é: {idade_menor}")
 print(f"A maior idade é: {idade_maior}")
+```
