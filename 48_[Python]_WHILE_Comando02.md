@@ -1,33 +1,32 @@
-'''
-Foi feita uma pesquisa de audiência de canal de TV
-em várias casas de uma certa cidade, num determinado dia.
-    Para cada casa visitada, é fornecido o número do
-canal (9, 12, 23 ou 40).
-    Fazer um algoritmo que:
-       - leia um número indeterminado de dados,
-         até que seja digitado o canal 0(zero);
-       - Calcule e mostre a porcentagem de
-         audiência de cada emissora;
-       - Caso seja digitado algum canal fora dos
-         apresentado acima, informar como outros canais;
-       - O número 0(zero) não pode ser considerado um canal.
+<h2>
+Foi feita uma pesquisa de audiência de canal de TV em várias casas de uma certa cidade, num determinado dia. </br></br>
 
-'''
+Para cada casa visitada, é fornecido o número do canal (9, 12, 23 ou 40). </br></br>
 
+Fazer um algoritmo que:</br>
+1. Leia um número indeterminado de dados, até que seja digitado o canal 0(zero);</br>
+2. Calcule e mostre a porcentagem de audiência de cada emissora; </br>
+3. Caso seja digitado algum canal fora dos apresentado acima, informar como outros canais e </br>
+4. O número 0(zero) não pode ser considerado um canal.
+</h2>
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-
-
-
-
-
-
-
-
-
-
-
-
+```python
 #variaveis
 canal = 0
 canal_9 = 0
@@ -79,3 +78,4 @@ print(f"A Audiência do Canal 12 é: {p_canal_12:,.2f}%")
 print(f"A Audiência do Canal 23 é: {p_canal_23:,.2f}%")
 print(f"A Audiência do Canal 40 é: {p_canal_40:,.2f}%")
 print(f"A Audiência dos outros canais é: {p_outros:2,.2f}%")
+```
