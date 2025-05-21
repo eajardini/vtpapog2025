@@ -1,13 +1,25 @@
-'''
-Faça um algoritmo que solicite N números inteiros
-até que o número 0(zero) seja digitado.
-Ao final o algoritmo deve informar o maior e
-o menor número digitado.
-OBS: O número 0(zero) não pode ser contado.
+<h2>
+Faça um algoritmo que solicite N números inteiros até que o número 0(zero) seja digitado. </br>
+Ao final o algoritmo deve informar o maior e o menor número digitado. </br>
+OBS: O número 0(zero) não pode ser contado.</br>
+</h2>
 
-'''
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 
