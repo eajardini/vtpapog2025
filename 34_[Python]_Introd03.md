@@ -1,15 +1,35 @@
-'''
-O custo ao consumidor de um carro novo é a soma do preço de fábrica com o 
-percentual de lucro do distribuidor e dos impostos ao preço de fábrica. Faça
-um programa que receba o preço de fábrica de um veículo, o percentual de lucro
-do distribuidor e o percentual de impostos.
- Calcule e mostre:
-    a) o valor correspondente ao lucro do distribuidor;
-    b) o valor correspondente ao imposto;
-    c) o preço final de veículo
 
-'''
+ O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos ao preço de fábrica.  
+ Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos.  
+ Calcule e mostre:  
+  A. O valor correspondente ao lucro do distribuidor;  
+  B. O valor correspondente ao imposto;    
+  C. O preço final de veículo .   
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+```python
 #variaveis
 preco_fabrica = 0.0
 percentual_lucro_distribuidor = 0.0
@@ -29,4 +49,5 @@ preco_final = preco_fabrica + valor_lucro_distribuidor + valor_imposto
 
 print(f"O valor do lucro do distribuidor : R${valor_lucro_distribuidor:,.2f}")
 print(f"O valor do imposto é: R${valor_imposto:,.2f}")
+```
 print(f"O valor final do veículo é: R${preco_final:,.2f}")
