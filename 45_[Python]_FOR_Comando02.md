@@ -1,5 +1,5 @@
 <h2>
-Construir um algoritmo que leia a idade de N pessoas.</br></br>
+Construir um algoritmo que leia a idade de 5 pessoas.</br></br>
     
 O sistema deve calcular: </br>
 - a média das idades;</br>
