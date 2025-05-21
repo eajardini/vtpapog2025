@@ -1,13 +1,13 @@
 <h2>
-Faça um programa que receba uma medida em pés.  
-Faça as conversões a seguir em mostre os resultados.  
-    a) polegadas  
-    b) jardas  
-    c) milhas 
-Sabese que:   
-    1 pé = 12 polegadas  
-    1 jarda = 3 pés  
-    1 milha = 1760 jardas  
+Faça um programa que receba uma medida em pés. </br> 
+Faça as conversões a seguir em mostre os resultados.  </br>
+    a) polegadas  </br>
+    b) jardas  </br>
+    c) milhas </br>
+Sabe-se que:   </br>
+    1 pé = 12 polegadas  </br>
+    1 jarda = 3 pés  </br>
+    1 milha = 1760 jardas  </br>
 
 </h2>
 
