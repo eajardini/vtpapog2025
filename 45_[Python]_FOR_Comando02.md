@@ -1,6 +1,10 @@
 <h2>
-Construir um algoritmo que leia a idade de N pessoas.
-O sistema deve calcular: a média das idades, a menor e a maior idade informada
+Construir um algoritmo que leia a idade de N pessoas.</br></br>
+    
+O sistema deve calcular: </br>
+- a média das idades;</br>
+- a menor e </br>
+- a maior idade informada.
 </h2>
 
 
@@ -30,7 +34,7 @@ O sistema deve calcular: a média das idades, a menor e a maior idade informada
 
 
 
-```
+```python
 #variaveis
 idade = 0
 contador = 0
