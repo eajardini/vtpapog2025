@@ -1,6 +1,7 @@
 '''
-Criar uma matriz 3x3 de números inteiros, solicite números para preencher essa matriz e 
-depois mostre a mesma na tela.
+Criar uma matriz 3x3 de números inteiros, solicite números 
+para preencher essa matriz e depois mostre a mesma 
+na tela.
 
 '''
 
