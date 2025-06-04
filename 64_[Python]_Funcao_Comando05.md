@@ -1,8 +1,8 @@
 <h2>
 Faça um algoritmo que percorre uma lista e exiba na tela o valor mais próximo da média dos valores da lista.<br/>
-
-Exemplo:<br/>
-lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)<br/>
+<br/>
+Exemplo:<br/><br/>
+lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)<br/><br/>
 Valor mais próximo da média = 7.5<br/>
 </h2>
 
