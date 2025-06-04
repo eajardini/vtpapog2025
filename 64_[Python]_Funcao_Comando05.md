@@ -1,12 +1,47 @@
-'''
-Faça um algoritmo que percorre uma lista e exiba na tela o valor mais próximo da média dos valores da lista.
+<h2>
+Faça um algoritmo que percorre uma lista e exiba na tela o valor mais próximo da média dos valores da lista.<br/>
+
+Exemplo:<br/>
+lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)<br/>
+Valor mais próximo da média = 7.5<br/>
+</h2>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
-Exemplo:
-lista = [2.5, 7.5, 10.0, 4.0] (média = 6.0)
-Valor mais próximo da média = 7.5
-
-'''
 
 
 
@@ -23,11 +58,7 @@ Valor mais próximo da média = 7.5
 
 
 
-
-
-
-
-
+```python
 lista = [1,2,3,3,3,3,3,4,5,100,150,30]  
 
 def media(lista):
@@ -48,3 +79,4 @@ def near(lista, media):
 
 print(f'Valor da média:{media(lista)}')
 print(f'Valor mais próximo à media: {near(lista, media(lista))}')
+```
